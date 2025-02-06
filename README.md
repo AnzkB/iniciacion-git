@@ -1,7 +1,6 @@
 # Práctica de git y GitHub
 
 Me llamo Axel Boggian y he editado este archivo
-Soy Axel y he editado este fichero en la pagina web de Github!
 
 Soy Axel y he editado este fichero en la pagina web de Github!
 
